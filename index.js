@@ -1,7 +1,7 @@
 var directions = {
     "N": "North",
-    "S": "South",
     "E": "East",
+    "S": "South",
     "W": "West"
 }
 
